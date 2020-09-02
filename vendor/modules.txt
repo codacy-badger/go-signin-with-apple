@@ -1,0 +1,31 @@
+# github.com/Timothylock/go-signin-with-apple v0.0.0-20200221193809-1a722422658e
+## explicit
+github.com/Timothylock/go-signin-with-apple/apple
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+## explicit
+github.com/dgrijalva/jwt-go
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.6.1
+## explicit
+github.com/stretchr/testify/assert
+# github.com/tideland/golib v4.24.2+incompatible
+## explicit
+github.com/tideland/golib/collections
+github.com/tideland/golib/errors
+github.com/tideland/golib/etc
+github.com/tideland/golib/identifier
+github.com/tideland/golib/logger
+github.com/tideland/golib/loop
+github.com/tideland/golib/monitoring
+github.com/tideland/golib/sml
+github.com/tideland/golib/stringex
+github.com/tideland/golib/version
+# github.com/tideland/gorest v2.15.5+incompatible
+## explicit
+github.com/tideland/gorest/jwt
+github.com/tideland/gorest/rest
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
