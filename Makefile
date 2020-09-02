@@ -1,16 +1,9 @@
-.PHONEY: all setup test cover
+.PHONEY: all test cover
 
-all: setup cover
-
-setup:
-		go get golang.org/x/tools/cmd/cover
-		go get github.com/stretchr/testify/assert
-		go get github.com/tideland/gorest/jwt
-		go get github.com/dgrijalva/jwt-go
-		go get ./...
+all: cover
 
 test:
-		go test -v ./...
+		go test -mod vendor -v ./...
 
 cover:
-		go test -coverprofile=coverage.txt ./...
+		go test -mod vendor -coverprofile=coverage.txt ./...
