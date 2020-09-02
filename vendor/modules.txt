@@ -1,6 +1,3 @@
-# github.com/Timothylock/go-signin-with-apple v0.0.0-20200221193809-1a722422658e
-## explicit
-github.com/Timothylock/go-signin-with-apple/apple
 # github.com/davecgh/go-spew v1.1.0
 github.com/davecgh/go-spew/spew
 # github.com/dgrijalva/jwt-go v3.2.0+incompatible
